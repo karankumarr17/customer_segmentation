@@ -3,7 +3,7 @@ This project focuses on customer segmentation using K-Means clustering in Python
 
 
 
-# Cluster Profile Summary Table (Conceptual, replace with real values after execution)
+# Cluster Profile Summary Table
 Cluster	Key Traits	Behavioral Pattern	Spending Behavior	What They Represent
 Cluster 1 — Value-Driven / Budget Shoppers	Low price, high promotion usage, medium sales volume, short descriptions	Respond strongly to discounts, purchase more during promotions	Low-to-mid spending, high sensitivity to price changes	Budget-conscious & promo-seeking customers
 Cluster 2 — Premium & High-Value Shoppers	High price, high sales volume, low promotion, high-quality materials	Loyal, buy frequently without waiting for discounts	High spending & high CLTV	Premium, brand-loyal customers
